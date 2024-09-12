@@ -9,12 +9,13 @@ import ProfilePic from './components/ProfilePic'
 import UseStateCom from './components/UseStateCom';
 import Counter from './Counter';
 import Componentwo from './components/Componentwo'
+import ColorPicker from './components/ColorPicker'
 
 function App() {
   return (
   
      <>
-      <Componentwo/>
+      <ColorPicker/>
       
     
     </>
